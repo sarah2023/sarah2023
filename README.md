@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![creative-developer](https://github.com/sarah2023/sarah2023/assets/134475027/792b3972-b2be-4de4-9a1d-52e815c2644b)
+
 **sarah2023/sarah2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
