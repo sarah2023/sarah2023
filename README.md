@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarah&show_icons=true&locale=en&layout=compact" alt="sarah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarah&show_icons=true&locale=en" alt="sarah" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sarah2023=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah2023](https://github.com/sarah2023/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarah&" alt="sarah" /></p>
