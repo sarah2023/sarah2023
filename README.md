@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ubaidullah Amjad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Sarah Hamid</h1>
+<h3 align="center">A passionate frontend and Wordpress developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah&label=Profile%20views&color=0e75b6&style=flat" alt="sarah" /> </p>
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **faf**
 
-- 📫 How to reach me **daa@gmail.com**
+- 📫 How to reach me **sarahhamid2013@gmail.com**
 
 - 📄 Know about my experiences [fdasfasd](fdasfasd)
 
