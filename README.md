@@ -6,8 +6,8 @@
   
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Sattis Peri Peri Restaurant online shop
+- 🌱 I’m currently learning Marketing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Donut zone](https://donutszone.info/)
+- 🔭 I’m currently working on [Satti's Peri Peri](https://sattiperiperi.co.uk/)
 
 - 👯 I’m looking to collaborate on [gmm yachting](https://gmm-yachting.com/)
 
 - 👨‍💻 All of my projects are available at [daafaf](daafaf)
 
-- 📝 I regularly write articles on [cplusoft](cplusoft)
+- 📝 I regularly write articles on [Qk9, Artodev](QK9)
 
 - 💬 Ask me about **faf**
 
 - 📫 How to reach me **sarahhamid2013@gmail.com**
 
-- 📄 Know about my experiences [fdasfasd](fdasfasd)
+- 📄 Know about my experiences [Developer](SEO Manager)
 
 - ⚡ Fun fact **I am creative**
 
